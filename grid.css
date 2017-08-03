@@ -31,8 +31,6 @@ section {
     width: 100%;
 }
 
-.row {}
-
 .row:after {
     content: "";
     display: block;

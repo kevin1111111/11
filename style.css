@@ -1,0 +1,47 @@
+#im1 {
+    border-radius: 50%;
+}
+
+.navbar {
+    padding: 0;
+    margin: 0;
+    border-radius: 0px;
+    background-color: #19fc46;
+}
+
+.navbar-brand {
+    padding: 0;
+    margin: 0;
+}
+
+.navbar img {
+    padding: 0;
+    margin: 0;
+    border-radius: 50px;
+}
+
+@media screen and (max-width: 768px) {
+    .img {
+        width: 100%;
+    }
+}
+
+@media screen and (min-width: 768px) and (max-width: 992px) {
+    .img {
+        width: 50%;
+    }
+}
+
+@media screen and (min-width: 992px) and (max-width: 1200px) {
+    .img {
+        width: 70%;
+    }
+}
+
+@media screen and (min-width: 1200px) {
+    .img {
+        width: 20%;
+    }
+}
+
+#pro1 {}
